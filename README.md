@@ -70,8 +70,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 00 → Internet & Networking Basics 
  [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+Week 01 → Success Mindset 
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/mukesh5164_dmi-devops-micro-internship-with-agentic-share-7503438584788688896-zIGu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa7A7EBeY-5ffT7tJDSjl81YX0SP5rMgco | https://mukesh-5164.github.io/mukesh5164.github.io/?utm_source=chatgpt.com |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/mukesh5164_dmi-devops-agenticai-share-7505875251826728961-q3iE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa7A7EBeY-5ffT7tJDSjl81YX0SP5rMgco | https://mukesh-5164.github.io/mukesh5164.github.io/?utm_source=chatgpt.com |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
