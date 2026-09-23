@@ -130,8 +130,8 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/mukesh5164_dmi-devops-micro-internship-with-agentic-share-7503438584788688896-zIGu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa7A7EBeY-5ffT7tJDSjl81YX0SP5rMgco | https://mukesh-5164.github.io/mukesh5164.github.io/?utm_source=chatgpt.com |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/mukesh5164_dmi-devops-agenticai-share-7505875251826728961-q3iE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa7A7EBeY-5ffT7tJDSjl81YX0SP5rMgco | https://mukesh-5164.github.io/mukesh5164.github.io/?utm_source=chatgpt.com |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/mukesh5164_dmi-devops-micro-internship-with-agentic-share-7503438584788688896-zIGu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa7A7EBeY-5ffT7tJDSjl81YX0SP5rMgco | https://medium.com/@mukeshvenkatesan28/introduction-45ebb7f942ac |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/mukesh5164_dmi-devops-agenticai-share-7505875251826728961-q3iE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa7A7EBeY-5ffT7tJDSjl81YX0SP5rMgco | https://medium.com/@mukeshvenkatesan28/my-week-01-success-mindset-my-2-0-version-ae3aa9336999 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
